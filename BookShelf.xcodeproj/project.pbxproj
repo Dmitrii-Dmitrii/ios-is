@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		285644D92D65042600EB9E96 /* BookShelf */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BookShelf; sourceTree = BUILT_PRODUCTS_DIR; };
+		285645092D65216B00EB9E96 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		285644D02D65042600EB9E96 = {
 			isa = PBXGroup;
 			children = (
+				285645092D65216B00EB9E96 /* .gitignore */,
 				285644DB2D65042600EB9E96 /* BookShelf */,
 				285644DA2D65042600EB9E96 /* Products */,
 			);
