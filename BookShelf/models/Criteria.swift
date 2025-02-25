@@ -5,4 +5,6 @@ enum Criteria {
     case author(String)
     case genre(Genre)
     case publicationYear(Int?)
+    case comicNumber(Int)
+    case courseNumber(Int)
 }
